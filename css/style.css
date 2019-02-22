@@ -1,0 +1,59 @@
+.my-photo {
+  width: 100%;
+  height: 25%;
+}
+
+.box-photo {
+  width: 20%;
+  margin-left: 20px;
+}
+
+.box-info {
+  height: 10%;
+  margin: 25px;
+}
+
+.box-float {
+  float: left;
+}
+
+.float-fix{
+  clear: left;
+}
+.box-exp {
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: 200;
+}
+p {
+  margin: 5px;
+}
+body {
+  background-color: aqua;
+}
+
+div {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.personal-info {
+  margin: 20px;
+
+}
+
+ol {
+  list-style-type: decimal;
+  margin-left: 20px;
+  margin-top: 10px;
+}
